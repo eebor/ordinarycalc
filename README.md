@@ -11,7 +11,7 @@ This project was created with the purpose of learning about architecture at a lo
 
 | Goals  |  Status |
 |---|---|
-| Make some calculator on asm (done)  | done  |
+| Make some calculator on asm | done  |
 | Make minimum required runtime on asm  |  done |
 | Make 64 and 32 bit versions  | not done |
 
