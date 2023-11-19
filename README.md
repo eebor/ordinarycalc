@@ -1,6 +1,7 @@
 
 # Mega ordinary calc 
-If you are reading this, then this project was created not for interesting functionality, but for interesting code
+If you are reading this, then this project was created not for interesting functionality, but for interesting code.
+
 Don't repeat it if you're in your right mind.
 ## Introduction
 This project was created with the purpose of learning about architecture at a low level.
